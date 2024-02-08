@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LightIsGone.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Pichau\Documents\Unreal Projects\LightIsGone\Intermediate\Build\Win64\x64\LightIsGoneEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Pichau\Documents\Unreal Projects\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGone.init.gen.cpp.obj"
+"C:\Users\Pichau\Documents\Unreal Projects\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGoneCharacter.gen.cpp.obj"
+"C:\Users\Pichau\Documents\Unreal Projects\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGoneGameMode.gen.cpp.obj"
+"C:\Users\Pichau\Documents\Unreal Projects\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGone.cpp.obj"
+"C:\Users\Pichau\Documents\Unreal Projects\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGoneCharacter.cpp.obj"
+"C:\Users\Pichau\Documents\Unreal Projects\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGoneGameMode.cpp.obj"
+"C:\Users\Pichau\Documents\Unreal Projects\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\Default.rc2.res"
+/OUT:"C:\Users\Pichau\Documents\Unreal Projects\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\UnrealEditor-LightIsGone.lib"
