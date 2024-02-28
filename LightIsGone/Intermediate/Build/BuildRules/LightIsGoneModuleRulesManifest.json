@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Pichau\\Documents\\Unreal Projects\\LightIsGone\\Source\\LightIsGone\\LightIsGone.Build.cs",
-		"C:\\Users\\Pichau\\Documents\\Unreal Projects\\LightIsGone\\Source\\LightIsGone.Target.cs",
-		"C:\\Users\\Pichau\\Documents\\Unreal Projects\\LightIsGone\\Source\\LightIsGoneEditor.Target.cs"
+		"/Users/u22147/Documents/Unreal Projects/LightIsGone/Source/LightIsGone/LightIsGone.Build.cs",
+		"/Users/u22147/Documents/Unreal Projects/LightIsGone/Source/LightIsGone.Target.cs",
+		"/Users/u22147/Documents/Unreal Projects/LightIsGone/Source/LightIsGoneEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

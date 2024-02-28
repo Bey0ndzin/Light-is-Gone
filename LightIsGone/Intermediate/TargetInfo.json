@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "LightIsGone",
-			"Path": "..\\Source\\LightIsGone.Target.cs",
+			"Path": "../Source/LightIsGone.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "LightIsGoneEditor",
-			"Path": "..\\Source\\LightIsGoneEditor.Target.cs",
+			"Path": "../Source/LightIsGoneEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
