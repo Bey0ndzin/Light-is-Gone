@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/BP_UI.uasset",
+				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/BP_mainHUD.uasset",
+				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/Bars/empty_bar.uasset",
+				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/Bars/full_bar.uasset",
+				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/Bars/health_bar.uasset",
+				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/u22147/Documents/Unreal Projects/LightIsGone/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
 			]
 		}
