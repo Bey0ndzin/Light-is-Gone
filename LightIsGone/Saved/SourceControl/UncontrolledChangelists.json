@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/BP_UI.uasset",
 				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/BP_mainHUD.uasset",
