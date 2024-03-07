@@ -1,4 +1,4 @@
-#include "/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
+#include "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -21,5 +21,10 @@
 #define IMPLEMENT_SIGNING_KEY_REGISTRATION() 
 #define DEPRECATED_FORGAME DEPRECATED
 #define UE_DEPRECATED_FORGAME UE_DEPRECATED
+#define WITH_GAMEPLAY_DEBUGGER_CORE 1
+#define WITH_GAMEPLAY_DEBUGGER 1
+#define WITH_GAMEPLAY_DEBUGGER_MENU 1
+#define GAMEPLAYABILITIES_API DLLIMPORT
+#define DATAREGISTRY_API DLLIMPORT
 #define LIGHTISGONE_API DLLEXPORT
 #define ENHANCEDINPUT_API DLLIMPORT

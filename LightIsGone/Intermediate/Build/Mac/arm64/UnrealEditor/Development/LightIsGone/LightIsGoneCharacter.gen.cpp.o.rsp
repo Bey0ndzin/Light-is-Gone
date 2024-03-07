@@ -1,14 +1,18 @@
 -c
 -pipe
 -I"."
--I"/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT"
--I"/Users/u22152/Documents/Unreal Projects/LightIsGone/Source"
+-I"../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT"
+-I"../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public"
 -I"Runtime/Core/Public"
 -I"Runtime/Core/Internal"
 -I"Runtime/TraceLog/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/CoreUObject/UHT"
 -I"Runtime/CoreUObject/Public"
 -I"Runtime/CoreUObject/Internal"
+-I"../Intermediate/Build/Mac/UnrealEditor/Inc/NetCore/UHT"
+-I"Runtime/Net/Core/Classes"
+-I"Runtime/Net/Core/Public"
+-I"Runtime/Net/Common/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT"
 -I"../Shaders/Shared"
 -I"Runtime/Engine/Classes"
@@ -18,10 +22,6 @@
 -I"Runtime/CoreOnline/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/FieldNotification/UHT"
 -I"Runtime/FieldNotification/Public"
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/NetCore/UHT"
--I"Runtime/Net/Core/Classes"
--I"Runtime/Net/Core/Public"
--I"Runtime/Net/Common/Public"
 -I"Runtime/ImageCore/Public"
 -I"Runtime/Json/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/JsonUtilities/UHT"
@@ -259,6 +259,10 @@
 -I"Developer/PhysicsUtilities/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/WidgetRegistration/UHT"
 -I"Developer/WidgetRegistration/Public"
+-I"../Plugins/Runtime/DataRegistry/Intermediate/Build/Mac/UnrealEditor/Inc/DataRegistry/UHT"
+-I"../Plugins/Runtime/DataRegistry/Source/DataRegistry/Public"
+-I"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT"
+-I"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Source"
 -I"../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT"
 -I"../Plugins/EnhancedInput/Source/EnhancedInput/Public"
 -isystem"ThirdParty/mimalloc/include"
@@ -317,12 +321,12 @@
 -arch arm64
 -isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
 -mmacosx-version-min=10.15
--include-pch "/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.gch"
--include "/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/Definitions.LightIsGone.h"
+-include-pch "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.gch"
+-include "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/Definitions.LightIsGone.h"
 -x objective-c++
 -std=c++20
 -fpch-validate-input-files-content
 -stdlib=libc++
-"/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT/LightIsGoneCharacter.gen.cpp"
--MD -MF"/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneCharacter.gen.cpp.d"
--o "/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneCharacter.gen.cpp.o"
+"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT/LightIsGoneCharacter.gen.cpp"
+-MD -MF"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneCharacter.gen.cpp.d"
+-o "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneCharacter.gen.cpp.o"

@@ -5,7 +5,7 @@
 UE_TARGET_CONFIG = DebugGame
 UE_UBT_BINARY_SUBPATH = UnrealGame-Mac-DebugGame
 UE_MAC_EXECUTABLE_NAME = UnrealGame-Mac-DebugGame
-CODE_SIGN_ENTITLEMENTS = ../../../../../../Shared/Epic Games/UE_5.3/Engine/Build/Mac/Resources/Sandbox.Server.entitlements
+CODE_SIGN_ENTITLEMENTS = ../../../../../../../Shared/Epic Games/UE_5.3/Engine/Build/Mac/Resources/Sandbox.Server.entitlements
 
 // this variable trickery will set the proper name for debugging, building, and archiving,
 // where archiving (the '_install' action type) may need a differnet name so it shows up nicely

@@ -1,7 +1,7 @@
-/Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.gch: \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h.gch \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedDefinitions.Core.Cpp20.h \
+/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.gch: \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h.gch \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedDefinitions.Core.Cpp20.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/Core/Public/Algo/Reverse.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/Core/Public/CoreTypes.h \
@@ -2182,9 +2182,9 @@
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/sanitizer/common_interface_defs.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/arm_neon.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/arm_bf16.h \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.gch \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.Cpp20.h \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.gch \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/CoreUObject/SharedDefinitions.CoreUObject.Cpp20.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/Misc/NotifyHook.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/Misc/PackageName.h \
@@ -2273,8 +2273,8 @@
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/UObject/UObjectAnnotation.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/UObject/UObjectIterator.h \
   /Users/Shared/Epic\ Games/UE_5.3/Engine/Source/Runtime/CoreUObject/Public/UObject/UObjectThreadContext.h \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedDefinitions.Slate.Cpp20.h \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedDefinitions.Slate.Cpp20.h \
   Runtime/Slate/Public/SlateSharedPCH.h \
   Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h \
   Runtime/Json/Public/Policies/JsonPrintPolicy.h \

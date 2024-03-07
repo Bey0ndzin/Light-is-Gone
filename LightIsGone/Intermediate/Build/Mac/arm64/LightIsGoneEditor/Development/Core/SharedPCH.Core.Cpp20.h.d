@@ -1,6 +1,6 @@
-/Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h.gch: \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h \
-  /Users/u22152/Documents/Unreal\ Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedDefinitions.Core.Cpp20.h \
+/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h.gch: \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedDefinitions.Core.Cpp20.h \
   Runtime/Core/Public/CoreSharedPCH.h Runtime/Core/Public/Algo/Reverse.h \
   Runtime/Core/Public/CoreTypes.h Runtime/Core/Public/HAL/Platform.h \
   Runtime/Core/Public/Misc/Build.h \

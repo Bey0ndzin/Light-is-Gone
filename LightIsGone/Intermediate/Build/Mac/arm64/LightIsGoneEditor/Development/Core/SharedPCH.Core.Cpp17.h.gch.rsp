@@ -60,6 +60,6 @@
 -fpch-validate-input-files-content
 -stdlib=libc++
 -fpch-instantiate-templates
-"/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp17.h"
--MD -MF"/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp17.h.d"
--o "/Users/u22152/Documents/Unreal Projects/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp17.h.gch"
+"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp17.h"
+-MD -MF"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp17.h.d"
+-o "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp17.h.gch"
