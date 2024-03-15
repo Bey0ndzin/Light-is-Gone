@@ -1,0 +1,10 @@
+#!/bin/sh
+set -eo pipefail
+SRC_EXE="${UE_BINARIES_DIR}/${UE_UBT_BINARY_SUBPATH}"
+DEST_EXE="${CONFIGURATION_BUILD_DIR}/${EXECUTABLE_PATH}"
+DEST_EXE_DIR=`dirname "${DEST_EXE}"`
+
+echo Copying executable and any standalone dylibs into ${DEST_EXE_DIR}
+mkdir -p "${DEST_EXE_DIR}"
+ditto "${SRC_EXE}" "${DEST_EXE}"
+

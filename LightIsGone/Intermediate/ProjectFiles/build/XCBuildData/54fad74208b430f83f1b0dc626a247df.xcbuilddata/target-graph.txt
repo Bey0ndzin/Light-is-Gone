@@ -1,0 +1,11 @@
+Target dependency graph (8 targets)
+Target 'UnrealGame' in project 'UnrealGame (Mac)' (no dependencies)
+Target 'UnrealEditor_Index' in project 'UnrealEditor (Mac)' (no dependencies)
+Target 'UnrealEditor' in project 'UnrealEditor (Mac)' (no dependencies)
+Target 'LightIsGoneEditor_Index' in project 'LightIsGoneEditor (Mac)' (no dependencies)
+Target 'LightIsGoneEditor' in project 'LightIsGoneEditor (Mac)'
+➜ Explicit dependency on target 'LightIsGoneEditor_Build' in project 'LightIsGoneEditor (Mac)'
+Target 'LightIsGoneEditor_Build' in project 'LightIsGoneEditor (Mac)' (no dependencies)
+Target 'LightIsGone' in project 'LightIsGone (Mac)'
+➜ Explicit dependency on target 'LightIsGone_Build' in project 'LightIsGone (Mac)'
+Target 'LightIsGone_Build' in project 'LightIsGone (Mac)' (no dependencies)
