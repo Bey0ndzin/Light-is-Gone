@@ -8042,19 +8042,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/u22152/.nuget/packages/": {}
+    "/Users/u22147/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/BuildRulesProjects/LightIsGoneModuleRules/LightIsGoneModuleRules.csproj",
+      "projectUniqueName": "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/BuildRulesProjects/LightIsGoneModuleRules/LightIsGoneModuleRules.csproj",
       "projectName": "LightIsGoneModuleRules",
-      "projectPath": "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/BuildRulesProjects/LightIsGoneModuleRules/LightIsGoneModuleRules.csproj",
-      "packagesPath": "/Users/u22152/.nuget/packages/",
-      "outputPath": "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/BuildRulesProjects/LightIsGoneModuleRules/obj/",
+      "projectPath": "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/BuildRulesProjects/LightIsGoneModuleRules/LightIsGoneModuleRules.csproj",
+      "packagesPath": "/Users/u22147/.nuget/packages/",
+      "outputPath": "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/BuildRulesProjects/LightIsGoneModuleRules/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/u22152/.nuget/NuGet/NuGet.Config"
+        "/Users/u22147/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/u22147/Documents/Unreal Projects/LightIsGone/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/FX/Rain/NS_Rain.uasset",
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/21/WWYX44RDCCS98492P9K9O3.uasset",
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SX/SKO7AH9HKZVPN4OMFO4DV3.uasset",
@@ -210,8 +213,7 @@
 				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/Bars/health_bar.uasset",
 				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/BP_SoulsLike.uasset",
-				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/Bars/stamina_bar.uasset",
-				"/Users/u22147/Documents/Unreal Projects/LightIsGone/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+				"/Users/u22152/Documents/Unreal Projects/LightIsGone/Content/UI_UX/Bars/stamina_bar.uasset"
 			]
 		}
 	]
