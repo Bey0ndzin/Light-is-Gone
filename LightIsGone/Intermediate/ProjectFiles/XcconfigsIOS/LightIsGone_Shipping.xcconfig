@@ -1,8 +1,0 @@
-// pull in the shared settings for all configs for this target
-#include "LightIsGone.xcconfig"
-
-// Unreal per-config variables
-UE_TARGET_CONFIG = Shipping
-UE_UBT_BINARY_SUBPATH = LightIsGone-IOS-Shipping
-UE_IOS_EXECUTABLE_NAME = LightIsGone-IOS-Shipping
-PRODUCT_NAME = LightIsGone-IOS-Shipping

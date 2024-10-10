@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LightIsGone.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LightIsGone.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LightIsGoneEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\LightIsGone.code-workspace" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LightIsGone">
+      <UniqueIdentifier>{C5ED17AF-4DE7-3D6C-A8BE-6CBBC619B088}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LightIsGone\LightIsGone.Build.cs">
+      <Filter>Source\LightIsGone</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LightIsGone\LightIsGone.cpp">
+      <Filter>Source\LightIsGone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightIsGone\LightIsGone.h">
+      <Filter>Source\LightIsGone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LightIsGone\LightIsGoneAttributeSet.cpp">
+      <Filter>Source\LightIsGone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightIsGone\LightIsGoneAttributeSet.h">
+      <Filter>Source\LightIsGone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LightIsGone\LightIsGoneCharacter.cpp">
+      <Filter>Source\LightIsGone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightIsGone\LightIsGoneCharacter.h">
+      <Filter>Source\LightIsGone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LightIsGone\LightIsGoneGameMode.cpp">
+      <Filter>Source\LightIsGone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LightIsGone\LightIsGoneGameMode.h">
+      <Filter>Source\LightIsGone</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

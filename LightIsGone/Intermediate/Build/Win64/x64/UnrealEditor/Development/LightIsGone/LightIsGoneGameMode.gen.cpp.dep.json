@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\unrealeditor\\inc\\lightisgone\\uht\\lightisgonegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\x64\\lightisgoneeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lightisgone\\definitions.lightisgone.h",
+            "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\source\\lightisgone\\lightisgonegamemode.h",
+            "d:\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\unrealeditor\\inc\\lightisgone\\uht\\lightisgonegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
