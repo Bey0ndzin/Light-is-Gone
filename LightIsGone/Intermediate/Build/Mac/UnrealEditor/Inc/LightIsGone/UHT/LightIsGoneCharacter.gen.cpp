@@ -8,6 +8,7 @@
 #include "LightIsGone/LightIsGoneCharacter.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeLightIsGoneCharacter() {}
+<<<<<<< Updated upstream
 // Cross Module References
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
@@ -67,13 +68,44 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGoneCharacter() {}
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::DependentSingletons) < 16);
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALightIsGoneCharacter_Statics::Class_MetaDataParams[] = {
+=======
+
+// Begin Cross Module References
+ENGINE_API UClass* Z_Construct_UClass_ACharacter();
+ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
+ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
+ENHANCEDINPUT_API UClass* Z_Construct_UClass_UInputAction_NoRegister();
+ENHANCEDINPUT_API UClass* Z_Construct_UClass_UInputMappingContext_NoRegister();
+LIGHTISGONE_API UClass* Z_Construct_UClass_ALightIsGoneCharacter();
+LIGHTISGONE_API UClass* Z_Construct_UClass_ALightIsGoneCharacter_NoRegister();
+UPackage* Z_Construct_UPackage__Script_LightIsGone();
+// End Cross Module References
+
+// Begin Class ALightIsGoneCharacter
+void ALightIsGoneCharacter::StaticRegisterNativesALightIsGoneCharacter()
+{
+}
+IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(ALightIsGoneCharacter);
+UClass* Z_Construct_UClass_ALightIsGoneCharacter_NoRegister()
+{
+	return ALightIsGoneCharacter::StaticClass();
+}
+struct Z_Construct_UClass_ALightIsGoneCharacter_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+>>>>>>> Stashed changes
 		{ "HideCategories", "Navigation" },
 		{ "IncludePath", "LightIsGoneCharacter.h" },
 		{ "ModuleRelativePath", "LightIsGoneCharacter.h" },
 	};
+<<<<<<< Updated upstream
 #endif
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_CameraBoom_MetaData[] = {
+=======
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_CameraBoom_MetaData[] = {
+>>>>>>> Stashed changes
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
 #if !UE_BUILD_SHIPPING
@@ -85,10 +117,14 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGoneCharacter() {}
 		{ "ToolTip", "Camera boom positioning the camera behind the character" },
 #endif
 	};
+<<<<<<< Updated upstream
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_CameraBoom = { "CameraBoom", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, CameraBoom), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_CameraBoom_MetaData), Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_CameraBoom_MetaData) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_FollowCamera_MetaData[] = {
+=======
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_FollowCamera_MetaData[] = {
+>>>>>>> Stashed changes
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
 #if !UE_BUILD_SHIPPING
@@ -100,10 +136,14 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGoneCharacter() {}
 		{ "ToolTip", "Follow camera" },
 #endif
 	};
+<<<<<<< Updated upstream
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_FollowCamera = { "FollowCamera", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, FollowCamera), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_FollowCamera_MetaData), Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_FollowCamera_MetaData) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_DefaultMappingContext_MetaData[] = {
+=======
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_DefaultMappingContext_MetaData[] = {
+>>>>>>> Stashed changes
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Input" },
 #if !UE_BUILD_SHIPPING
@@ -114,10 +154,14 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGoneCharacter() {}
 		{ "ToolTip", "MappingContext" },
 #endif
 	};
+<<<<<<< Updated upstream
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_DefaultMappingContext = { "DefaultMappingContext", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, DefaultMappingContext), Z_Construct_UClass_UInputMappingContext_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_DefaultMappingContext_MetaData), Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_DefaultMappingContext_MetaData) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_JumpAction_MetaData[] = {
+=======
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_JumpAction_MetaData[] = {
+>>>>>>> Stashed changes
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Input" },
 #if !UE_BUILD_SHIPPING
@@ -128,10 +172,14 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGoneCharacter() {}
 		{ "ToolTip", "Jump Input Action" },
 #endif
 	};
+<<<<<<< Updated upstream
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_JumpAction = { "JumpAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, JumpAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_JumpAction_MetaData), Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_JumpAction_MetaData) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_MoveAction_MetaData[] = {
+=======
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MoveAction_MetaData[] = {
+>>>>>>> Stashed changes
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Input" },
 #if !UE_BUILD_SHIPPING
@@ -142,10 +190,14 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGoneCharacter() {}
 		{ "ToolTip", "Move Input Action" },
 #endif
 	};
+<<<<<<< Updated upstream
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_MoveAction = { "MoveAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, MoveAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_MoveAction_MetaData), Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_MoveAction_MetaData) };
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_LookAction_MetaData[] = {
+=======
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_LookAction_MetaData[] = {
+>>>>>>> Stashed changes
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Input" },
 #if !UE_BUILD_SHIPPING
@@ -156,6 +208,7 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGoneCharacter() {}
 		{ "ToolTip", "Look Input Action" },
 #endif
 	};
+<<<<<<< Updated upstream
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_LookAction = { "LookAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, LookAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_LookAction_MetaData), Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_LookAction_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ALightIsGoneCharacter_Statics::PropPointers[] = {
@@ -210,4 +263,83 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGoneCharacter() {}
 		Z_CompiledInDeferFile_FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
+=======
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_CameraBoom;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_FollowCamera;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_DefaultMappingContext;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_JumpAction;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_MoveAction;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_LookAction;
+	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
+	static UObject* (*const DependentSingletons[])();
+	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
+		TCppClassTypeTraits<ALightIsGoneCharacter>::IsAbstract,
+	};
+	static const UECodeGen_Private::FClassParams ClassParams;
+};
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_CameraBoom = { "CameraBoom", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, CameraBoom), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_CameraBoom_MetaData), NewProp_CameraBoom_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_FollowCamera = { "FollowCamera", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, FollowCamera), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_FollowCamera_MetaData), NewProp_FollowCamera_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_DefaultMappingContext = { "DefaultMappingContext", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, DefaultMappingContext), Z_Construct_UClass_UInputMappingContext_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_DefaultMappingContext_MetaData), NewProp_DefaultMappingContext_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_JumpAction = { "JumpAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, JumpAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_JumpAction_MetaData), NewProp_JumpAction_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_MoveAction = { "MoveAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, MoveAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MoveAction_MetaData), NewProp_MoveAction_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_LookAction = { "LookAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ALightIsGoneCharacter, LookAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_LookAction_MetaData), NewProp_LookAction_MetaData) };
+const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ALightIsGoneCharacter_Statics::PropPointers[] = {
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_CameraBoom,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_FollowCamera,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_DefaultMappingContext,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_JumpAction,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_MoveAction,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ALightIsGoneCharacter_Statics::NewProp_LookAction,
+};
+static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::PropPointers) < 2048);
+UObject* (*const Z_Construct_UClass_ALightIsGoneCharacter_Statics::DependentSingletons[])() = {
+	(UObject* (*)())Z_Construct_UClass_ACharacter,
+	(UObject* (*)())Z_Construct_UPackage__Script_LightIsGone,
+};
+static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::DependentSingletons) < 16);
+const UECodeGen_Private::FClassParams Z_Construct_UClass_ALightIsGoneCharacter_Statics::ClassParams = {
+	&ALightIsGoneCharacter::StaticClass,
+	"Game",
+	&StaticCppClassTypeInfo,
+	DependentSingletons,
+	nullptr,
+	Z_Construct_UClass_ALightIsGoneCharacter_Statics::PropPointers,
+	nullptr,
+	UE_ARRAY_COUNT(DependentSingletons),
+	0,
+	UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::PropPointers),
+	0,
+	0x008000A4u,
+	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ALightIsGoneCharacter_Statics::Class_MetaDataParams), Z_Construct_UClass_ALightIsGoneCharacter_Statics::Class_MetaDataParams)
+};
+UClass* Z_Construct_UClass_ALightIsGoneCharacter()
+{
+	if (!Z_Registration_Info_UClass_ALightIsGoneCharacter.OuterSingleton)
+	{
+		UECodeGen_Private::ConstructUClass(Z_Registration_Info_UClass_ALightIsGoneCharacter.OuterSingleton, Z_Construct_UClass_ALightIsGoneCharacter_Statics::ClassParams);
+	}
+	return Z_Registration_Info_UClass_ALightIsGoneCharacter.OuterSingleton;
+}
+template<> LIGHTISGONE_API UClass* StaticClass<ALightIsGoneCharacter>()
+{
+	return ALightIsGoneCharacter::StaticClass();
+}
+DEFINE_VTABLE_PTR_HELPER_CTOR(ALightIsGoneCharacter);
+ALightIsGoneCharacter::~ALightIsGoneCharacter() {}
+// End Class ALightIsGoneCharacter
+
+// Begin Registration
+struct Z_CompiledInDeferFile_FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics
+{
+	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
+		{ Z_Construct_UClass_ALightIsGoneCharacter, ALightIsGoneCharacter::StaticClass, TEXT("ALightIsGoneCharacter"), &Z_Registration_Info_UClass_ALightIsGoneCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ALightIsGoneCharacter), 637740374U) },
+	};
+};
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_170454491(TEXT("/Script/LightIsGone"),
+	Z_CompiledInDeferFile_FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics::ClassInfo),
+	nullptr, 0,
+	nullptr, 0);
+// End Registration
+>>>>>>> Stashed changes
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -14,12 +14,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define LIGHTISGONE_LightIsGoneCharacter_generated_h
 
+<<<<<<< Updated upstream
 #define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_SPARSE_DATA
 #define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_SPARSE_DATA_PROPERTY_ACCESSORS
 #define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
 #define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_RPC_WRAPPERS_NO_PURE_DECLS
 #define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_ACCESSORS
 #define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_INCLASS_NO_PURE_DECLS \
+=======
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_INCLASS_NO_PURE_DECLS \
+>>>>>>> Stashed changes
 private: \
 	static void StaticRegisterNativesALightIsGoneCharacter(); \
 	friend struct Z_Construct_UClass_ALightIsGoneCharacter_Statics; \
@@ -28,11 +32,19 @@ public: \
 	DECLARE_SERIALIZER(ALightIsGoneCharacter)
 
 
+<<<<<<< Updated upstream
 #define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ALightIsGoneCharacter(ALightIsGoneCharacter&&); \
 	NO_API ALightIsGoneCharacter(const ALightIsGoneCharacter&); \
+=======
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	ALightIsGoneCharacter(ALightIsGoneCharacter&&); \
+	ALightIsGoneCharacter(const ALightIsGoneCharacter&); \
+>>>>>>> Stashed changes
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ALightIsGoneCharacter); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ALightIsGoneCharacter); \
@@ -40,6 +52,7 @@ public: \
 	NO_API virtual ~ALightIsGoneCharacter();
 
 
+<<<<<<< Updated upstream
 #define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_18_PROLOG
 #define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
@@ -51,6 +64,14 @@ public: \
 	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_ACCESSORS \
 	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_INCLASS_NO_PURE_DECLS \
 	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_18_PROLOG
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_INCLASS_NO_PURE_DECLS \
+	FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_21_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -58,7 +79,11 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> LIGHTISGONE_API UClass* StaticClass<class ALightIsGoneCharacter>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< Updated upstream
 #define CURRENT_FILE_ID FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h
+=======
+#define CURRENT_FILE_ID FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h
+>>>>>>> Stashed changes
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

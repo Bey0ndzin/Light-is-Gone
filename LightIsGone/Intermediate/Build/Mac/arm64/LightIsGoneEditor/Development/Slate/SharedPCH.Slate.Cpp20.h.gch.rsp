@@ -7,6 +7,10 @@
 -I"Runtime/Core/Internal"
 -I"Runtime/TraceLog/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/CoreUObject/UHT"
+<<<<<<< Updated upstream
+=======
+-I"../Intermediate/Build/Mac/UnrealEditor/Inc/CoreUObject/VerseVMBytecode"
+>>>>>>> Stashed changes
 -I"Runtime/CoreUObject/Public"
 -I"Runtime/CoreUObject/Internal"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/InputCore/UHT"
@@ -15,11 +19,21 @@
 -I"Runtime/Json/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/SlateCore/UHT"
 -I"Runtime/SlateCore/Public"
+<<<<<<< Updated upstream
 -I"Runtime/ApplicationCore/Public"
 -I"Runtime/RHI/Public"
 -I"Runtime/ImageWrapper/Public"
 -I"Runtime/ImageCore/Public"
 -isystem"ThirdParty/mimalloc/include"
+=======
+-I"../Intermediate/Build/Mac/UnrealEditor/Inc/DeveloperSettings/UHT"
+-I"Runtime/DeveloperSettings/Public"
+-I"Runtime/ApplicationCore/Public"
+-I"Runtime/RHI/Public"
+-I"Runtime/ImageWrapper/Public"
+-I"../Intermediate/Build/Mac/UnrealEditor/Inc/ImageCore/UHT"
+-I"Runtime/ImageCore/Public"
+>>>>>>> Stashed changes
 -isystem"ThirdParty/LibTiff/Source/Mac"
 -isystem"ThirdParty/LibTiff/Source"
 -Wall
@@ -59,6 +73,11 @@
 -Wno-unknown-warning-option
 -Wno-range-loop-analysis
 -Wno-single-bit-bitfield-constant-conversion
+<<<<<<< Updated upstream
+=======
+-ffp-contract=off
+-fno-delete-null-pointer-checks
+>>>>>>> Stashed changes
 -O3
 -fexceptions
 -DPLATFORM_EXCEPTIONS_DISABLED=0
@@ -74,13 +93,25 @@
 -ffp-contract=off
 -arch arm64
 -isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
+<<<<<<< Updated upstream
 -mmacosx-version-min=10.15
 -include-pch "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.gch"
+=======
+-mmacosx-version-min=13.00
+-include-pch "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.gch"
+>>>>>>> Stashed changes
 -x objective-c++-header
 -std=c++20
 -fpch-validate-input-files-content
 -stdlib=libc++
 -fpch-instantiate-templates
+<<<<<<< Updated upstream
 "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h"
 -MD -MF"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.d"
 -o "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.gch"
+=======
+"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h"
+-MD -MF"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.d"
+-o "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.gch"
+-DUE_USE_SWIFT_UI_MAIN=0
+>>>>>>> Stashed changes
