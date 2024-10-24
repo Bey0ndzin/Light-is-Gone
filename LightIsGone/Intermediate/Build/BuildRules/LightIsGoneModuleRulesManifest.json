@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Pichau\\Documents\\GitHub\\Light-is-Gone\\LightIsGone\\Source\\LightIsGone\\LightIsGone.Build.cs",
-		"C:\\Users\\Pichau\\Documents\\GitHub\\Light-is-Gone\\LightIsGone\\Source\\LightIsGone.Target.cs",
-		"C:\\Users\\Pichau\\Documents\\GitHub\\Light-is-Gone\\LightIsGone\\Source\\LightIsGoneEditor.Target.cs"
+		"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGone.Build.cs",
+		"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGone.Target.cs",
+		"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGoneEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
