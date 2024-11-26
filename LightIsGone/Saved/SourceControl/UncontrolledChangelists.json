@@ -18,7 +18,12 @@
 				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/AnimationsPure/Attack/LightCombo2_mixamo_com_Montage.uasset",
 				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/AnimationsPure/Attack/LightCombo3_mixamo_com_Montage.uasset",
 				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/ABP_PlayerCharacter.uasset",
-				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/E_HitAngle.uasset"
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/E_HitAngle.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Input/Actions/IA_TargetLockOn.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Blueprints/TargetLockOnComponent.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/BS_PlayerLockOn.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/TargetLockOnComponent.uasset"
 			]
 		}
 	]
