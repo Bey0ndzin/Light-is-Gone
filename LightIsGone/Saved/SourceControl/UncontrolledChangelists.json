@@ -21,9 +21,14 @@
 				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/E_HitAngle.uasset",
 				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Input/Actions/IA_TargetLockOn.uasset",
 				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Blueprints/TargetLockOnComponent.uasset",
 				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/BS_PlayerLockOn.uasset",
-				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/TargetLockOnComponent.uasset"
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/TargetLockOnComponent.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/CR_Manny_Take1.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Maps/AnimatingMap.umap",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/AnimationsFiles/LS_RollAnimation.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/AnimationsPure/SK_Manny_Idle.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/AnimationsPure/Movement/SK_Manny_Idle.uasset",
+				"C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Content/ThirdPerson/Blueprints/TargetLockOnComponent.uasset"
 			]
 		}
 	]
