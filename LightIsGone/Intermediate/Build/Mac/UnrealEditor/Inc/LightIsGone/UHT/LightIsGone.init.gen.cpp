@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGone_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x2ED96C3F,
+				0x0E58B509,
 				0xEA8FD38D,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGone_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_LightIsGone.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LightIsGone(Z_Construct_UPackage__Script_LightIsGone, TEXT("/Script/LightIsGone"), Z_Registration_Info_UPackage__Script_LightIsGone, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x2ED96C3F, 0xEA8FD38D));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LightIsGone(Z_Construct_UPackage__Script_LightIsGone, TEXT("/Script/LightIsGone"), Z_Registration_Info_UPackage__Script_LightIsGone, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x0E58B509, 0xEA8FD38D));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
