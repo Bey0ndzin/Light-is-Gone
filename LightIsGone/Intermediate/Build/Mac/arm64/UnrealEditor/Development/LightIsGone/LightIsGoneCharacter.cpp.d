@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneCharacter.cpp.o: \
   /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
   /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedDefinitions.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+=======
+/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneCharacter.cpp.o: \
+  /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+  /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedDefinitions.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+>>>>>>> Stashed changes
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h \
@@ -3687,8 +3693,13 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/weak_result_type.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_destructor.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/uses_allocator_construction.h \
+<<<<<<< Updated upstream
   /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
   /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+=======
+  /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+  /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+>>>>>>> Stashed changes
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Editor/UnrealEd/Public/UnrealEdSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Messaging/Public/IMessageContext.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/AssetRegistry/ARFilter.h \
@@ -3816,9 +3827,15 @@
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Editor/UnrealEd/Public/MRUFavoritesList.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Editor/UnrealEd/Public/MRUList.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/../Intermediate/Build/Mac/UnrealEditor/Inc/UnrealEd/UHT/AssetEditorSubsystem.generated.h \
+<<<<<<< Updated upstream
   /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGoneCharacter.cpp \
   /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/Definitions.LightIsGone.h \
   /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGoneCharacter.h \
+=======
+  /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGoneCharacter.cpp \
+  /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/Definitions.LightIsGone.h \
+  /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGoneCharacter.h \
+>>>>>>> Stashed changes
   Runtime/Core/Public/CoreMinimal.h \
   Runtime/Engine/Classes/GameFramework/Character.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
@@ -3845,7 +3862,11 @@
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/RootMotionSource.generated.h \
   ../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT/Character.generated.h \
   Runtime/Core/Public/Logging/LogMacros.h \
+<<<<<<< Updated upstream
   /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT/LightIsGoneCharacter.generated.h \
+=======
+  /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT/LightIsGoneCharacter.generated.h \
+>>>>>>> Stashed changes
   Runtime/Engine/Classes/Engine/LocalPlayer.h \
   Runtime/Engine/Classes/Camera/CameraComponent.h \
   Runtime/CoreUObject/Public/UObject/ScriptInterface.h \

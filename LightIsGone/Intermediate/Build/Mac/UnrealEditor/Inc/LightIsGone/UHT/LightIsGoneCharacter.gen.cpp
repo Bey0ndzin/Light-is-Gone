@@ -171,14 +171,23 @@ ALightIsGoneCharacter::~ALightIsGoneCharacter() {}
 // End Class ALightIsGoneCharacter
 
 // Begin Registration
+<<<<<<< Updated upstream
 struct Z_CompiledInDeferFile_FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics
+=======
+struct Z_CompiledInDeferFile_FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics
+>>>>>>> Stashed changes
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ALightIsGoneCharacter, ALightIsGoneCharacter::StaticClass, TEXT("ALightIsGoneCharacter"), &Z_Registration_Info_UClass_ALightIsGoneCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ALightIsGoneCharacter), 637740374U) },
 	};
 };
+<<<<<<< Updated upstream
 static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_170454491(TEXT("/Script/LightIsGone"),
 	Z_CompiledInDeferFile_FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics::ClassInfo),
+=======
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_170454491(TEXT("/Script/LightIsGone"),
+	Z_CompiledInDeferFile_FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneCharacter_h_Statics::ClassInfo),
+>>>>>>> Stashed changes
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

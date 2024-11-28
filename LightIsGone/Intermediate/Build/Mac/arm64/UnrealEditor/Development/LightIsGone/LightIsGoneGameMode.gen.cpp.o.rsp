@@ -289,8 +289,13 @@
 -I"../Plugins/Runtime/DataRegistry/Intermediate/Build/Mac/UnrealEditor/Inc/DataRegistry/UHT"
 -I"../Plugins/Runtime/DataRegistry/Source"
 -I"../Plugins/Runtime/DataRegistry/Source/DataRegistry/Public"
+<<<<<<< Updated upstream
 -I"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT"
 -I"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Source"
+=======
+-I"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT"
+-I"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Source"
+>>>>>>> Stashed changes
 -I"../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT"
 -I"../Plugins/EnhancedInput/Source"
 -I"../Plugins/EnhancedInput/Source/EnhancedInput/Public"
@@ -351,13 +356,24 @@
 -arch arm64
 -isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
 -mmacosx-version-min=13.00
+<<<<<<< Updated upstream
 -include-pch "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch"
 -include "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/Definitions.LightIsGone.h"
+=======
+-include-pch "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch"
+-include "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/Definitions.LightIsGone.h"
+>>>>>>> Stashed changes
 -x objective-c++
 -std=c++20
 -fpch-validate-input-files-content
 -stdlib=libc++
+<<<<<<< Updated upstream
 "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT/LightIsGoneGameMode.gen.cpp"
 -MD -MF"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneGameMode.gen.cpp.d"
 -o "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneGameMode.gen.cpp.o"
+=======
+"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT/LightIsGoneGameMode.gen.cpp"
+-MD -MF"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneGameMode.gen.cpp.d"
+-o "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGoneGameMode.gen.cpp.o"
+>>>>>>> Stashed changes
 -DUE_USE_SWIFT_UI_MAIN=0

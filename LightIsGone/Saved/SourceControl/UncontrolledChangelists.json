@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Content/StarterContent/Particles/P_Fire.uasset",
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/AI/BehaviorFlorest/BT_Enemy_Melee.uasset",
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/AI/BehaviorFlorest/BT_Enemy_Base.uasset",
@@ -40,6 +41,23 @@
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/AI/BehaviorFlorest/BT_SubTree_Investigating.uasset",
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/AI/BehaviorFlorest/BT_SubTree_Passive.uasset",
+=======
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/StarterContent/Particles/P_Fire.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Enemies/BP_BaseEnemyAI.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Maps/MainMenuMap.umap",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/MainMenu/mainmenuwallpaper.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/MainMenu/WB_Main_Menu.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/LoadingScreen/cyberpunk2.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/LoadingScreen/cyberpunk3.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/LoadingScreen/LoadBG1.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/LoadingScreen/LoadBG2.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/LoadingScreen/LoadBG3.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Sounds/SFX/UI/darksouls3parryebackstab.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/LoadingScreen/Startup_LIG.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/LoadingScreen/movie/Startup_LIG.uasset",
+				"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/UI_UX/MainMenu/BP_Background.uasset",
+>>>>>>> Stashed changes
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/AnimationsPure/Attack/LightCombo1.uasset",
 				"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Content/LightIsGone/Animations/AnimationsPure/Attack/LightCombo2_mixamo_com.uasset",

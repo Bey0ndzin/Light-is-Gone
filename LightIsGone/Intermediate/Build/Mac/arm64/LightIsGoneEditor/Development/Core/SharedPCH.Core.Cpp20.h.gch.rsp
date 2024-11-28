@@ -64,7 +64,13 @@
 -fpch-validate-input-files-content
 -stdlib=libc++
 -fpch-instantiate-templates
+<<<<<<< Updated upstream
 "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h"
 -MD -MF"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h.d"
 -o "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h.gch"
+=======
+"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h"
+-MD -MF"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h.d"
+-o "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Core/SharedPCH.Core.Cpp20.h.gch"
+>>>>>>> Stashed changes
 -DUE_USE_SWIFT_UI_MAIN=0

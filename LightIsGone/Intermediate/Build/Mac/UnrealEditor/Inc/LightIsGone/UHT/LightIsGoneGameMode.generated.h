@@ -14,7 +14,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define LIGHTISGONE_LightIsGoneGameMode_generated_h
 
+<<<<<<< Updated upstream
 #define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_INCLASS_NO_PURE_DECLS \
+=======
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_INCLASS_NO_PURE_DECLS \
+>>>>>>> Stashed changes
 private: \
 	static void StaticRegisterNativesALightIsGoneGameMode(); \
 	friend struct Z_Construct_UClass_ALightIsGoneGameMode_Statics; \
@@ -23,7 +27,11 @@ public: \
 	DECLARE_SERIALIZER(ALightIsGoneGameMode)
 
 
+<<<<<<< Updated upstream
 #define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ALightIsGoneGameMode(ALightIsGoneGameMode&&); \
@@ -35,12 +43,21 @@ public: \
 	LIGHTISGONE_API virtual ~ALightIsGoneGameMode();
 
 
+<<<<<<< Updated upstream
 #define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_9_PROLOG
 #define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_INCLASS_NO_PURE_DECLS \
 	FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_9_PROLOG
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h_12_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +65,11 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> LIGHTISGONE_API UClass* StaticClass<class ALightIsGoneGameMode>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< Updated upstream
 #define CURRENT_FILE_ID FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h
+=======
+#define CURRENT_FILE_ID FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneGameMode_h
+>>>>>>> Stashed changes
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -14,7 +14,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define LIGHTISGONE_LightIsGoneAttributeSet_generated_h
 
+<<<<<<< Updated upstream
 #define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_INCLASS_NO_PURE_DECLS \
+=======
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_INCLASS_NO_PURE_DECLS \
+>>>>>>> Stashed changes
 private: \
 	static void StaticRegisterNativesULightIsGoneAttributeSet(); \
 	friend struct Z_Construct_UClass_ULightIsGoneAttributeSet_Statics; \
@@ -23,7 +27,11 @@ public: \
 	DECLARE_SERIALIZER(ULightIsGoneAttributeSet)
 
 
+<<<<<<< Updated upstream
 #define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ULightIsGoneAttributeSet(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -37,12 +45,21 @@ public: \
 	NO_API virtual ~ULightIsGoneAttributeSet();
 
 
+<<<<<<< Updated upstream
 #define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_12_PROLOG
 #define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_INCLASS_NO_PURE_DECLS \
 	FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ENHANCED_CONSTRUCTORS \
+=======
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_12_PROLOG
+#define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_INCLASS_NO_PURE_DECLS \
+	FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ENHANCED_CONSTRUCTORS \
+>>>>>>> Stashed changes
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +67,11 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> LIGHTISGONE_API UClass* StaticClass<class ULightIsGoneAttributeSet>();
 
 #undef CURRENT_FILE_ID
+<<<<<<< Updated upstream
 #define CURRENT_FILE_ID FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h
+=======
+#define CURRENT_FILE_ID FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h
+>>>>>>> Stashed changes
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

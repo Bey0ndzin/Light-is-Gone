@@ -345,7 +345,13 @@
 -fpch-validate-input-files-content
 -stdlib=libc++
 -fpch-instantiate-templates
+<<<<<<< Updated upstream
 "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
 -MD -MF"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.d"
 -o "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch"
+=======
+"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
+-MD -MF"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.d"
+-o "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch"
+>>>>>>> Stashed changes
 -DUE_USE_SWIFT_UI_MAIN=0

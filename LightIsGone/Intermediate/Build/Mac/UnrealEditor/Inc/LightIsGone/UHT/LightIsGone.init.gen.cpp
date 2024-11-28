@@ -17,7 +17,11 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGone_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
+<<<<<<< Updated upstream
 				0x0E58B509,
+=======
+				0x052CD9E3,
+>>>>>>> Stashed changes
 				0xEA8FD38D,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +29,9 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGone_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_LightIsGone.OuterSingleton;
 	}
+<<<<<<< Updated upstream
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LightIsGone(Z_Construct_UPackage__Script_LightIsGone, TEXT("/Script/LightIsGone"), Z_Registration_Info_UPackage__Script_LightIsGone, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x0E58B509, 0xEA8FD38D));
+=======
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LightIsGone(Z_Construct_UPackage__Script_LightIsGone, TEXT("/Script/LightIsGone"), Z_Registration_Info_UPackage__Script_LightIsGone, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x052CD9E3, 0xEA8FD38D));
+>>>>>>> Stashed changes
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
