@@ -1,15 +1,15 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\unrealeditor\\inc\\lightisgone\\uht\\lightisgoneattributeset.gen.cpp",
+        "Source": "c:\\users\\vitor\\onedrive\\documentos\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\unrealeditor\\inc\\lightisgone\\uht\\lightisgoneattributeset.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\x64\\lightisgoneeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "PCH": "c:\\users\\vitor\\onedrive\\documentos\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\x64\\lightisgoneeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
         "Includes": [
-            "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lightisgone\\definitions.lightisgone.h",
-            "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\source\\lightisgone\\lightisgoneattributeset.h",
-            "d:\\epic games\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\attributeset.h",
-            "d:\\epic games\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\attributeset.generated.h",
-            "c:\\users\\pichau\\documents\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\unrealeditor\\inc\\lightisgone\\uht\\lightisgoneattributeset.generated.h"
+            "c:\\users\\vitor\\onedrive\\documentos\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lightisgone\\definitions.lightisgone.h",
+            "c:\\users\\vitor\\onedrive\\documentos\\github\\light-is-gone\\lightisgone\\source\\lightisgone\\lightisgoneattributeset.h",
+            "e:\\unreal\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\source\\gameplayabilities\\public\\attributeset.h",
+            "e:\\unreal\\ue_5.4\\engine\\plugins\\runtime\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\attributeset.generated.h",
+            "c:\\users\\vitor\\onedrive\\documentos\\github\\light-is-gone\\lightisgone\\intermediate\\build\\win64\\unrealeditor\\inc\\lightisgone\\uht\\lightisgoneattributeset.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

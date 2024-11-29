@@ -1,11 +1,11 @@
-"C:\Users\Pichau\Documents\GitHub\Light-is-Gone\LightIsGone\Source\LightIsGone\LightIsGoneAttributeSet.cpp"
-/FI"C:\Users\Pichau\Documents\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\LightIsGoneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:\Users\Pichau\Documents\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\Definitions.LightIsGone.h"
-/Yu"C:\Users\Pichau\Documents\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\LightIsGoneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:\Users\Pichau\Documents\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\LightIsGoneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:\Users\Pichau\Documents\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGoneAttributeSet.cpp.obj"
-/sourceDependencies "C:\Users\Pichau\Documents\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGoneAttributeSet.cpp.dep.json"
-@"C:\Users\Pichau\Documents\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGone.Shared.rsp"
+"C:\Users\vitor\OneDrive\Documentos\GitHub\Light-is-Gone\LightIsGone\Source\LightIsGone\LightIsGoneAttributeSet.cpp"
+/FI"C:\Users\vitor\OneDrive\Documentos\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\LightIsGoneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"C:\Users\vitor\OneDrive\Documentos\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\Definitions.LightIsGone.h"
+/Yu"C:\Users\vitor\OneDrive\Documentos\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\LightIsGoneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"C:\Users\vitor\OneDrive\Documentos\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\LightIsGoneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"C:\Users\vitor\OneDrive\Documentos\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGoneAttributeSet.cpp.obj"
+/sourceDependencies "C:\Users\vitor\OneDrive\Documentos\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGoneAttributeSet.cpp.dep.json"
+@"C:\Users\vitor\OneDrive\Documentos\GitHub\Light-is-Gone\LightIsGone\Intermediate\Build\Win64\x64\UnrealEditor\Development\LightIsGone\LightIsGone.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
