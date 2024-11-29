@@ -2,19 +2,13 @@
 -pipe
 -I"."
 -I"../Plugins/Runtime/GameplayAbilities/Intermediate/Build/Mac/UnrealEditor/Inc/GameplayAbilities/UHT"
-<<<<<<< Updated upstream
-=======
 -I"../Plugins/Runtime/GameplayAbilities/Source"
->>>>>>> Stashed changes
 -I"../Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public"
 -I"Runtime/Core/Public"
 -I"Runtime/Core/Internal"
 -I"Runtime/TraceLog/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/CoreUObject/UHT"
-<<<<<<< Updated upstream
-=======
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/CoreUObject/VerseVMBytecode"
->>>>>>> Stashed changes
 -I"Runtime/CoreUObject/Public"
 -I"Runtime/CoreUObject/Internal"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/NetCore/UHT"
@@ -22,10 +16,6 @@
 -I"Runtime/Net/Core/Public"
 -I"Runtime/Net/Common/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/Engine/UHT"
-<<<<<<< Updated upstream
--I"../Shaders/Shared"
-=======
->>>>>>> Stashed changes
 -I"Runtime/Engine/Classes"
 -I"Runtime/Engine/Public"
 -I"Runtime/Engine/Internal"
@@ -33,21 +23,15 @@
 -I"Runtime/CoreOnline/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/FieldNotification/UHT"
 -I"Runtime/FieldNotification/Public"
-<<<<<<< Updated upstream
-=======
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/ImageCore/UHT"
->>>>>>> Stashed changes
 -I"Runtime/ImageCore/Public"
 -I"Runtime/Json/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/JsonUtilities/UHT"
 -I"Runtime/JsonUtilities/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/SlateCore/UHT"
 -I"Runtime/SlateCore/Public"
-<<<<<<< Updated upstream
-=======
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/DeveloperSettings/UHT"
 -I"Runtime/DeveloperSettings/Public"
->>>>>>> Stashed changes
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/InputCore/UHT"
 -I"Runtime/InputCore/Classes"
 -I"Runtime/InputCore/Public"
@@ -59,10 +43,7 @@
 -I"Runtime/Messaging/Public"
 -I"Runtime/MessagingCommon/Public"
 -I"Runtime/RenderCore/Public"
-<<<<<<< Updated upstream
-=======
 -I"Runtime/RenderCore/Internal"
->>>>>>> Stashed changes
 -I"Runtime/Analytics/AnalyticsET/Public"
 -I"Runtime/Analytics/Analytics/Public"
 -I"Runtime/Sockets/Public"
@@ -78,11 +59,6 @@
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/GameplayTags/UHT"
 -I"Runtime/GameplayTags/Classes"
 -I"Runtime/GameplayTags/Public"
-<<<<<<< Updated upstream
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/DeveloperSettings/UHT"
--I"Runtime/DeveloperSettings/Public"
-=======
->>>>>>> Stashed changes
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/PacketHandler/UHT"
 -I"Runtime/PacketHandlers/PacketHandler/Classes"
 -I"Runtime/PacketHandlers/PacketHandler/Public"
@@ -93,10 +69,7 @@
 -I"Runtime/MeshDescription/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/StaticMeshDescription/UHT"
 -I"Runtime/StaticMeshDescription/Public"
-<<<<<<< Updated upstream
-=======
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/SkeletalMeshDescription/UHT"
->>>>>>> Stashed changes
 -I"Runtime/SkeletalMeshDescription/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/AnimationCore/UHT"
 -I"Runtime/AnimationCore/Public"
@@ -111,11 +84,8 @@
 -I"Runtime/Experimental/Chaos/Public"
 -I"Runtime/Experimental/Voronoi/Public"
 -I"Runtime/GeometryCore/Public"
-<<<<<<< Updated upstream
-=======
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/ChaosVDRuntime/UHT"
 -I"Runtime/Experimental/ChaosVisualDebugger/Public"
->>>>>>> Stashed changes
 -I"Runtime/SignalProcessing/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/AudioExtensions/UHT"
 -I"Runtime/AudioExtensions/Public"
@@ -144,27 +114,15 @@
 -I"Runtime/MovieSceneCapture/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/Renderer/UHT"
 -I"Runtime/Renderer/Public"
-<<<<<<< Updated upstream
-=======
 -I"Runtime/Renderer/Internal"
 -I"../Shaders/Public"
 -I"../Shaders/Shared"
->>>>>>> Stashed changes
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/TypedElementFramework/UHT"
 -I"Runtime/TypedElementFramework/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/TypedElementRuntime/UHT"
 -I"Runtime/TypedElementRuntime/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/AnimationDataController/UHT"
 -I"Developer/AnimationDataController/Public"
-<<<<<<< Updated upstream
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/InterchangeCore/UHT"
--I"Runtime/Interchange/Core/Public"
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/Kismet/UHT"
--I"Editor/Kismet/Classes"
--I"Editor/Kismet/Public"
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/ToolMenus/UHT"
--I"Developer/ToolMenus/Public"
-=======
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/AnimationBlueprintEditor/UHT"
 -I"Editor/AnimationBlueprintEditor/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/Kismet/UHT"
@@ -195,7 +153,6 @@
 -I"Editor/EditorSubsystem/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/InteractiveToolsFramework/UHT"
 -I"Runtime/InteractiveToolsFramework/Public"
->>>>>>> Stashed changes
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/UnrealEd/UHT"
 -I"Programs/UnrealLightmass/Public"
 -I"Editor/UnrealEd/Classes"
@@ -210,24 +167,11 @@
 -I"Developer/AssetTools/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/AssetDefinition/UHT"
 -I"Editor/AssetDefinition/Public"
-<<<<<<< Updated upstream
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/EditorSubsystem/UHT"
--I"Editor/EditorSubsystem/Public"
--I"Developer/Merge/Public"
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/EditorFramework/UHT"
--I"Editor/EditorFramework/Public"
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/InteractiveToolsFramework/UHT"
--I"Runtime/InteractiveToolsFramework/Public"
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/ContentBrowserData/UHT"
--I"Editor/ContentBrowserData/Public"
--I"Runtime/Projects/Public"
-=======
 -I"Developer/Merge/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/ContentBrowserData/UHT"
 -I"Editor/ContentBrowserData/Public"
 -I"Runtime/Projects/Public"
 -I"Runtime/Projects/Internal"
->>>>>>> Stashed changes
 -I"Developer/MeshUtilities/Public"
 -I"Developer/MeshMergeUtilities/Public"
 -I"Developer/MeshReductionInterface/Public"
@@ -238,16 +182,6 @@
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/GameplayTasks/UHT"
 -I"Runtime/GameplayTasks/Classes"
 -I"Runtime/GameplayTasks/Public"
-<<<<<<< Updated upstream
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/PropertyEditor/UHT"
--I"Editor/PropertyEditor/Public"
--I"Editor/PropertyEditor/Internal"
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/EditorConfig/UHT"
--I"Editor/EditorConfig/Public"
--I"Editor/ActorPickerMode/Public"
--I"Editor/SceneDepthPickerMode/Public"
-=======
->>>>>>> Stashed changes
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/ClassViewer/UHT"
 -I"Editor/ClassViewer/Public"
 -I"Developer/DirectoryWatcher/Public"
@@ -278,19 +212,11 @@
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/AudioEditor/UHT"
 -I"Editor/AudioEditor/Classes"
 -I"Editor/AudioEditor/Public"
-<<<<<<< Updated upstream
-=======
 -I"ThirdParty/libSampleRate/Public"
->>>>>>> Stashed changes
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/LevelEditor/UHT"
 -I"Editor/LevelEditor/Public"
 -I"Editor/CommonMenuExtensions/Public"
 -I"Developer/Settings/Public"
-<<<<<<< Updated upstream
--I"../Intermediate/Build/Mac/UnrealEditor/Inc/ToolWidgets/UHT"
--I"Developer/ToolWidgets/Public"
-=======
->>>>>>> Stashed changes
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/VREditor/UHT"
 -I"Editor/VREditor/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/ViewportInteraction/UHT"
@@ -313,11 +239,8 @@
 -I"Runtime/MovieScene/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/TimeManagement/UHT"
 -I"Runtime/TimeManagement/Public"
-<<<<<<< Updated upstream
-=======
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/UniversalObjectLocator/UHT"
 -I"Runtime/UniversalObjectLocator/Public"
->>>>>>> Stashed changes
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/MovieSceneTracks/UHT"
 -I"Runtime/MovieSceneTracks/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/Constraints/UHT"
@@ -344,11 +267,8 @@
 -I"Editor/ToolMenusEditor/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/StatusBar/UHT"
 -I"Editor/StatusBar/Public"
-<<<<<<< Updated upstream
-=======
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/InterchangeCore/UHT"
 -I"Runtime/Interchange/Core/Public"
->>>>>>> Stashed changes
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/InterchangeEngine/UHT"
 -I"Runtime/Interchange/Engine/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/DeveloperToolSettings/UHT"
@@ -362,15 +282,6 @@
 -I"Developer/PhysicsUtilities/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/WidgetRegistration/UHT"
 -I"Developer/WidgetRegistration/Public"
-<<<<<<< Updated upstream
--I"../Plugins/Runtime/DataRegistry/Intermediate/Build/Mac/UnrealEditor/Inc/DataRegistry/UHT"
--I"../Plugins/Runtime/DataRegistry/Source/DataRegistry/Public"
--I"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT"
--I"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Source"
--I"../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT"
--I"../Plugins/EnhancedInput/Source/EnhancedInput/Public"
--isystem"ThirdParty/mimalloc/include"
-=======
 -I"Editor/ActorPickerMode/Public"
 -I"Editor/SceneDepthPickerMode/Public"
 -I"../Intermediate/Build/Mac/UnrealEditor/Inc/AnimationEditMode/UHT"
@@ -378,12 +289,16 @@
 -I"../Plugins/Runtime/DataRegistry/Intermediate/Build/Mac/UnrealEditor/Inc/DataRegistry/UHT"
 -I"../Plugins/Runtime/DataRegistry/Source"
 -I"../Plugins/Runtime/DataRegistry/Source/DataRegistry/Public"
+<<<<<<< Updated upstream
+-I"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT"
+-I"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Source"
+=======
 -I"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/UnrealEditor/Inc/LightIsGone/UHT"
 -I"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Source"
+>>>>>>> Stashed changes
 -I"../Plugins/EnhancedInput/Intermediate/Build/Mac/UnrealEditor/Inc/EnhancedInput/UHT"
 -I"../Plugins/EnhancedInput/Source"
 -I"../Plugins/EnhancedInput/Source/EnhancedInput/Public"
->>>>>>> Stashed changes
 -isystem"ThirdParty/LibTiff/Source/Mac"
 -isystem"ThirdParty/LibTiff/Source"
 -Wall
@@ -423,11 +338,8 @@
 -Wno-unknown-warning-option
 -Wno-range-loop-analysis
 -Wno-single-bit-bitfield-constant-conversion
-<<<<<<< Updated upstream
-=======
 -ffp-contract=off
 -fno-delete-null-pointer-checks
->>>>>>> Stashed changes
 -O3
 -fexceptions
 -DPLATFORM_EXCEPTIONS_DISABLED=0
@@ -443,12 +355,11 @@
 -ffp-contract=off
 -arch arm64
 -isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
-<<<<<<< Updated upstream
--mmacosx-version-min=10.15
--include-pch "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.gch"
--include "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/Definitions.LightIsGone.h"
-=======
 -mmacosx-version-min=13.00
+<<<<<<< Updated upstream
+-include-pch "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch"
+-include "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/Definitions.LightIsGone.h"
+=======
 -include-pch "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch"
 -include "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/Definitions.LightIsGone.h"
 >>>>>>> Stashed changes
@@ -457,12 +368,12 @@
 -fpch-validate-input-files-content
 -stdlib=libc++
 <<<<<<< Updated upstream
-"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGone.cpp"
--MD -MF"/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGone.cpp.d"
--o "/Users/u22152/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGone.cpp.o"
+"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGone.cpp"
+-MD -MF"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGone.cpp.d"
+-o "/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGone.cpp.o"
 =======
 "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGone.cpp"
 -MD -MF"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGone.cpp.d"
 -o "/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/UnrealEditor/Development/LightIsGone/LightIsGone.cpp.o"
--DUE_USE_SWIFT_UI_MAIN=0
 >>>>>>> Stashed changes
+-DUE_USE_SWIFT_UI_MAIN=0

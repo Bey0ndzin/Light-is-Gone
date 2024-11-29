@@ -1,7 +1,14 @@
+<<<<<<< Updated upstream
+/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch: \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedDefinitions.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+=======
 /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch: \
   /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.gch \
   /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedPCH.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
   /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/Engine/SharedDefinitions.Engine.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+>>>>>>> Stashed changes
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/Slate/Public/SlateSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/CoreUObjectSharedPCH.h \
@@ -3688,8 +3695,13 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/weak_result_type.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_destructor.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/uses_allocator_construction.h \
+<<<<<<< Updated upstream
+  /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+  /Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+=======
   /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
   /Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Intermediate/Build/Mac/arm64/LightIsGoneEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h \
+>>>>>>> Stashed changes
   Editor/UnrealEd/Public/UnrealEdSharedPCH.h \
   Runtime/Engine/Public/EngineSharedPCH.h \
   Runtime/Messaging/Public/IMessageContext.h \

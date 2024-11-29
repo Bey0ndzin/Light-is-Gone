@@ -1,8 +1,20 @@
 {
 	"SourceFiles": [
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+		"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGone.Build.cs",
+		"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Source/LightIsGone.Target.cs",
+		"/Users/u22152/Documents/GitHub/Light-is-Gone/Light-is-Gone/LightIsGone/Source/LightIsGoneEditor.Target.cs"
+=======
 		"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGone/LightIsGone.Build.cs",
 		"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGone.Target.cs",
 		"/Users/u22147/Documents/GitHub/Light-is-Gone/LightIsGone/Source/LightIsGoneEditor.Target.cs"
+>>>>>>> Stashed changes
+=======
+		"C:\\Users\\vitor\\OneDrive\\Documentos\\GitHub\\Light-is-Gone\\LightIsGone\\Source\\LightIsGone\\LightIsGone.Build.cs",
+		"C:\\Users\\vitor\\OneDrive\\Documentos\\GitHub\\Light-is-Gone\\LightIsGone\\Source\\LightIsGone.Target.cs",
+		"C:\\Users\\vitor\\OneDrive\\Documentos\\GitHub\\Light-is-Gone\\LightIsGone\\Source\\LightIsGoneEditor.Target.cs"
+>>>>>>> Stashed changes
 	],
-	"EngineVersion": "5.3.2"
+	"EngineVersion": "5.4.4"
 }

@@ -15,12 +15,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define LIGHTISGONE_LightIsGoneAttributeSet_generated_h
 
 <<<<<<< Updated upstream
-#define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_SPARSE_DATA
-#define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ACCESSORS
-#define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_INCLASS_NO_PURE_DECLS \
 =======
 #define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_INCLASS_NO_PURE_DECLS \
 >>>>>>> Stashed changes
@@ -33,7 +28,7 @@ public: \
 
 
 <<<<<<< Updated upstream
-#define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ENHANCED_CONSTRUCTORS \
 =======
 #define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ENHANCED_CONSTRUCTORS \
 >>>>>>> Stashed changes
@@ -41,13 +36,8 @@ public: \
 	NO_API ULightIsGoneAttributeSet(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
-<<<<<<< Updated upstream
-	NO_API ULightIsGoneAttributeSet(ULightIsGoneAttributeSet&&); \
-	NO_API ULightIsGoneAttributeSet(const ULightIsGoneAttributeSet&); \
-=======
 	ULightIsGoneAttributeSet(ULightIsGoneAttributeSet&&); \
 	ULightIsGoneAttributeSet(const ULightIsGoneAttributeSet&); \
->>>>>>> Stashed changes
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ULightIsGoneAttributeSet); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ULightIsGoneAttributeSet); \
@@ -56,17 +46,12 @@ public: \
 
 
 <<<<<<< Updated upstream
-#define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_12_PROLOG
-#define FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_GENERATED_BODY \
+#define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_12_PROLOG
+#define FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_SPARSE_DATA \
-	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ACCESSORS \
-	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_INCLASS_NO_PURE_DECLS \
-	FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ENHANCED_CONSTRUCTORS \
+	FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_INCLASS_NO_PURE_DECLS \
+	FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_ENHANCED_CONSTRUCTORS \
 =======
 #define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_12_PROLOG
 #define FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h_15_GENERATED_BODY \
@@ -83,7 +68,7 @@ template<> LIGHTISGONE_API UClass* StaticClass<class ULightIsGoneAttributeSet>()
 
 #undef CURRENT_FILE_ID
 <<<<<<< Updated upstream
-#define CURRENT_FILE_ID FID_u22152_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h
+#define CURRENT_FILE_ID FID_u22152_Documents_GitHub_Light_is_Gone_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h
 =======
 #define CURRENT_FILE_ID FID_u22147_Documents_GitHub_Light_is_Gone_LightIsGone_Source_LightIsGone_LightIsGoneAttributeSet_h
 >>>>>>> Stashed changes

@@ -1,0 +1,7 @@
+2024/10/11-13:11:27.027 4f24 Reusing MANIFEST C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/11-13:11:27.033 4f24 Recovering log #3
+2024/10/11-13:11:27.033 4f24 Reusing old log C:/Users/Pichau/Documents/GitHub/Light-is-Gone/LightIsGone/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000003.log 
+2024/10/11-13:13:18.078 4d1c Level-0 table #5: started
+2024/10/11-13:13:18.147 4d1c Level-0 table #5: 1167 bytes OK
+2024/10/11-13:13:18.148 4d1c Delete type=0 #3
+2024/10/11-13:13:18.189 4d1c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

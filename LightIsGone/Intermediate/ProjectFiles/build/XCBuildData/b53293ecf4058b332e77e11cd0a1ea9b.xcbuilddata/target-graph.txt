@@ -1,4 +1,0 @@
-Target dependency graph (2 targets)
-Target 'LightIsGone' in project 'LightIsGone (Mac)'
-➜ Explicit dependency on target 'LightIsGone_Build' in project 'LightIsGone (Mac)'
-Target 'LightIsGone_Build' in project 'LightIsGone (Mac)' (no dependencies)

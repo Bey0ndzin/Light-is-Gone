@@ -18,12 +18,11 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGone_init() {}
 				0,
 				PKG_CompiledIn | 0x00000000,
 <<<<<<< Updated upstream
-				0x152C08F3,
-				0x78C8E6D4,
+				0x0E58B509,
 =======
 				0x052CD9E3,
-				0xEA8FD38D,
 >>>>>>> Stashed changes
+				0xEA8FD38D,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_LightIsGone.OuterSingleton, PackageParams);
@@ -31,7 +30,7 @@ void EmptyLinkFunctionForGeneratedCodeLightIsGone_init() {}
 		return Z_Registration_Info_UPackage__Script_LightIsGone.OuterSingleton;
 	}
 <<<<<<< Updated upstream
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LightIsGone(Z_Construct_UPackage__Script_LightIsGone, TEXT("/Script/LightIsGone"), Z_Registration_Info_UPackage__Script_LightIsGone, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x152C08F3, 0x78C8E6D4));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LightIsGone(Z_Construct_UPackage__Script_LightIsGone, TEXT("/Script/LightIsGone"), Z_Registration_Info_UPackage__Script_LightIsGone, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x0E58B509, 0xEA8FD38D));
 =======
 	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LightIsGone(Z_Construct_UPackage__Script_LightIsGone, TEXT("/Script/LightIsGone"), Z_Registration_Info_UPackage__Script_LightIsGone, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x052CD9E3, 0xEA8FD38D));
 >>>>>>> Stashed changes
